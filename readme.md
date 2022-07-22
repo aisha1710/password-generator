@@ -10,12 +10,10 @@ This file includes a link and screenshot showing the modified starter code of an
 - password length of at least 8 characters and no more than 128 characters
 - choice to include lowercase, uppercase, numeric, and special characters
 - when all prompts are answered, a password is generated that matches the selected criteria
--
--
 
 ### Link
 
-https://github.com/aisha1710/password-generator/
+https://github.com/aisha1710/password-generator
 
 ### Screenshot of password generator page
 
