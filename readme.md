@@ -13,7 +13,7 @@ This file includes a link and screenshot showing the modified starter code of an
 
 ### Link
 
-https://github.com/aisha1710/password-generator
+https://aisha1710.github.io/password-generator/
 
 ### Screenshot of password generator page
 
